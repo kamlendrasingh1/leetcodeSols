@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
