@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
