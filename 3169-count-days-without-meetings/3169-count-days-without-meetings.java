@@ -5,7 +5,7 @@ class Solution {
         int maxEnd = meetings[0][1];
         int gap = 0;
 
-        for(int i = 0; i < meetings.length; i++){
+        for(int i = 1; i < meetings.length; i++){
             if(meetings[i][0] > maxEnd){
                 gap = gap + meetings[i][0] - maxEnd - 1;
             }
