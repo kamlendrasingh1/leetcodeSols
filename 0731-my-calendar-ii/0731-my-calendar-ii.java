@@ -1,40 +1,31 @@
 class MyCalendarTwo {
-
-    private TreeMap<Integer, Integer> bookingCount;
-    private int maxOverlappedBooking;
-
+    Map<Integer, Integer> map;
     public MyCalendarTwo() {
-        bookingCount = new TreeMap<>();
-        maxOverlappedBooking = 2;
+        map = new TreeMap<Integer, Integer>();
     }
+    
+    public boolean book(int startTime, int endTime) {
+        map.put(startTime, map.getOrDefault(startTime, 0) + 1);
+        map.put(endTime, map.getOrDefault(endTime, 0) - 1);
 
-    public boolean book(int start, int end) {
-        // Increase the booking count at 'start' and decrease at 'end'.
-        bookingCount.put(start, bookingCount.getOrDefault(start, 0) + 1);
-        bookingCount.put(end, bookingCount.getOrDefault(end, 0) - 1);
+        int bookings = 0;
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+            bookings = bookings + entry.getValue();
 
-        int overlappedBooking = 0;
+            if(bookings > 2){
+                map.put(startTime, map.get(startTime) - 1);
+                map.put(endTime, map.get(endTime) + 1);
 
-        // Calculate the prefix sum of bookings.
-        for (Map.Entry<Integer, Integer> entry : bookingCount.entrySet()) {
-            overlappedBooking += entry.getValue();
-
-            // If the number of overlaps exceeds the allowed limit, rollback and
-            // return false.
-            if (overlappedBooking > maxOverlappedBooking) {
-                // Rollback changes.
-                bookingCount.put(start, bookingCount.get(start) - 1);
-                bookingCount.put(end, bookingCount.get(end) + 1);
-
-                // Clean up if the count becomes zero to maintain the map clean.
-                if (bookingCount.get(start) == 0) {
-                    bookingCount.remove(start);
+                if(map.get(startTime) == 0){
+                    map.remove(startTime);
                 }
 
+                if(map.get(endTime) == 0){
+                    map.remove(endTime);
+                }
                 return false;
             }
         }
-
         return true;
     }
 }
