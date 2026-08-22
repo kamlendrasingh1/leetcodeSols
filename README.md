@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0143-reorder-list) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sweep Line
 |  |
 | ------- |
