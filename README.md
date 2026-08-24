@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0190-reverse-bits) |
 ## Quicksort
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
