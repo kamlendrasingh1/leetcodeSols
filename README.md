@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -169,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0023-merge-k-sorted-lists) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
