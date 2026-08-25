@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 ## Simulation
 |  |
