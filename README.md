@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0057-insert-interval) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
