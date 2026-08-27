@@ -1,22 +1,26 @@
 class Solution {
     public int largestInteger(int num) {
-        final String s = String.valueOf(num);
-
-        int ans = 0;
-
-        Queue<Integer>[] maxHeap = new Queue[2];
-
-        for(int i = 0; i < 2; ++i){
-            maxHeap[i] = new PriorityQueue<>(Comparator.reverseOrder());
+        PriorityQueue<Integer> even = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> odd = new PriorityQueue<>(Collections.reverseOrder());
+        String s = Integer.toString(num);
+        for(char c : s.toCharArray()){
+            int val = c - '0';
+            if(val % 2 == 0){
+                even.add(val);
+            }else{
+                odd.add(val);
+            }
         }
-        for(final char c : s.toCharArray()){
-            final int digit = c - '0';
-            maxHeap[digit % 2].offer(digit);
+        StringBuilder sb = new StringBuilder();
+
+        for(char c : s.toCharArray()){
+           int val = c - '0';
+            if(val % 2 == 0){
+                sb.append(even.poll());
+            }else{
+                sb.append(odd.poll());
+            }
         }
-        for(final char c : s.toCharArray()){
-            final int i = c - '0' & 1;
-            ans = (ans * 10 + maxHeap[i].poll());
-        }
-        return ans;
+        return Integer.parseInt(sb.toString());
     }
 }
