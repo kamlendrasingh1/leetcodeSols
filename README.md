@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
+| [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
+| [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Simulation
 |  |
