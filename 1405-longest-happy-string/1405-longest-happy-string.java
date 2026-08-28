@@ -1,57 +1,69 @@
+import java.util.PriorityQueue;
+
+class CharacterCount {
+    int count;
+    char c;
+
+    public CharacterCount(int count, char c) {
+        this.count = count;
+        this.c = c;
+    }
+}
+
 class Solution {
     public String longestDiverseString(int a, int b, int c) {
 
-        Queue<int[]> maxHeap = new PriorityQueue<>((x, y) -> y[1] - x[1]);
-      
+        PriorityQueue<CharacterCount> maxHeap =
+                new PriorityQueue<>((x, y) -> y.count - x.count);
+
         if (a > 0) {
-            maxHeap.offer(new int[] {'a', a});
+            maxHeap.offer(new CharacterCount(a, 'a'));
         }
         if (b > 0) {
-            maxHeap.offer(new int[] {'b', b});
+            maxHeap.offer(new CharacterCount(b, 'b'));
         }
         if (c > 0) {
-            maxHeap.offer(new int[] {'c', c});
+            maxHeap.offer(new CharacterCount(c, 'c'));
         }
 
-        StringBuilder result = new StringBuilder();
+        StringBuilder res = new StringBuilder();
 
         while (!maxHeap.isEmpty()) {
 
-            int[] mostFrequent = maxHeap.poll();
-            int resultLength = result.length();
-          
+            CharacterCount first = maxHeap.poll();
 
-            if (resultLength >= 2 && 
-                result.codePointAt(resultLength - 1) == mostFrequent[0] && 
-                result.codePointAt(resultLength - 2) == mostFrequent[0]) {
-              
+            // If adding first character would create 3 consecutive chars
+            if (res.length() >= 2
+                    && res.charAt(res.length() - 1) == first.c
+                    && res.charAt(res.length() - 2) == first.c) {
+
                 if (maxHeap.isEmpty()) {
-
                     break;
                 }
-              
 
-                int[] secondMostFrequent = maxHeap.poll();
-                result.append((char) secondMostFrequent[0]);
-              
+                CharacterCount second = maxHeap.poll();
 
-                if (secondMostFrequent[1] > 1) {
-                    secondMostFrequent[1]--;
-                    maxHeap.offer(secondMostFrequent);
+                res.append(second.c);
+                second.count--;
+
+                if (second.count > 0) {
+                    maxHeap.offer(second);
                 }
 
-                maxHeap.offer(mostFrequent);
+                // Put first character back for future use
+                maxHeap.offer(first);
+
             } else {
 
-                result.append((char) mostFrequent[0]);
+                res.append(first.c);
+                first.count--;
 
-                if (mostFrequent[1] > 1) {
-                    mostFrequent[1]--;
-                    maxHeap.offer(mostFrequent);
+                if (first.count > 0) {
+                    maxHeap.offer(first);
                 }
             }
         }
 
-        return result.toString();
+        return res.toString();
     }
 }
