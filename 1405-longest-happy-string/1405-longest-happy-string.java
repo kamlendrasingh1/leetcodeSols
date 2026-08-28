@@ -32,7 +32,6 @@ class Solution {
 
             CharacterCount first = maxHeap.poll();
 
-            // If adding first character would create 3 consecutive chars
             if (res.length() >= 2
                     && res.charAt(res.length() - 1) == first.c
                     && res.charAt(res.length() - 2) == first.c) {
@@ -50,7 +49,6 @@ class Solution {
                     maxHeap.offer(second);
                 }
 
-                // Put first character back for future use
                 maxHeap.offer(first);
 
             } else {
