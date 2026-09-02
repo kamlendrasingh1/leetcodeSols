@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0383-ransom-note](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0424-longest-repeating-character-replacement) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 ## Stack
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
