@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
+| [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
