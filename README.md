@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1470-shuffle-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1470-shuffle-the-array) |
+| [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
+| [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
+| [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
