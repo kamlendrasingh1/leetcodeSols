@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0057-insert-interval) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
