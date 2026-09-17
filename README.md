@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
