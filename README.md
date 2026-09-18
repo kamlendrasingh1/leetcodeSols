@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0020-valid-parentheses) |
