@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0190-reverse-bits) |
 ## Quicksort
