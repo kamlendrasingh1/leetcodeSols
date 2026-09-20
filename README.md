@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
