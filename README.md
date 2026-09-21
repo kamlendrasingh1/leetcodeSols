@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0732-my-calendar-iii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Recursion
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0094-binary-tree-inorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0094-binary-tree-inorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -308,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
