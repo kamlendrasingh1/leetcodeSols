@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
+| [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3169-count-days-without-meetings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3169-count-days-without-meetings) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sliding Window
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
+| [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3169-count-days-without-meetings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3169-count-days-without-meetings) |
 ## Prefix Sum
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
+| [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
