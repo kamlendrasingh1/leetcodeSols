@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1470-shuffle-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1672-richest-customer-wealth) |
 | [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1672-richest-customer-wealth) |
 ## Binary Search Tree
 |  |
 | ------- |
