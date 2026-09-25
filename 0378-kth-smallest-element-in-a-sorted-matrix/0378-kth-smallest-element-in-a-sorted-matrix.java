@@ -3,7 +3,7 @@ class Solution {
         int n = matrix.length;
         PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
 
-        for(int i = 0; i < matrix.length; i = i + 1){
+        for(int i = 0; i < Math.min(n, k); i = i + 1){
             minHeap.add(new int[] {
                 matrix[i][0],
                 i,
