@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1470-shuffle-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1672-richest-customer-wealth) |
 | [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0732-my-calendar-iii) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1672-richest-customer-wealth](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1672-richest-customer-wealth) |
 ## Binary Search Tree
 |  |
