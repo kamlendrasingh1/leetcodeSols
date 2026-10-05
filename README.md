@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
+| [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
+| [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
 ## Memoization
 |  |
 | ------- |
