@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
 | [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -372,8 +377,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
