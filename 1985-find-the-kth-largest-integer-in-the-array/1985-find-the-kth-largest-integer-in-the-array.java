@@ -1,12 +1,18 @@
 class Solution {
     public String kthLargestNumber(String[] nums, int k) {
-        Arrays.sort(nums, (a, b) -> {
+        PriorityQueue<String> pq = new PriorityQueue<>((a, b) ->{
             if(a.length() == b.length()){
-                return b.compareTo(a);
-            }else{
-                return b.length() - a.length();
+                return a.compareTo(b);
             }
+            return a.length() - b.length();
         });
-        return nums[k - 1];
+        for(int i = 0; i < nums.length; i++){
+            pq.add(nums[i]);
+
+            if(pq.size() > k){
+                pq.remove();
+            }
+        }
+        return pq.peek();
     }
 }
