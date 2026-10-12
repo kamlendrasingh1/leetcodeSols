@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1470-shuffle-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1470-shuffle-the-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1672-richest-customer-wealth](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1672-richest-customer-wealth) |
 | [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1288-remove-covered-intervals) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0767-reorganize-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0767-reorganize-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
