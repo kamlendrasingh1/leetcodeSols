@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3169-count-days-without-meetings) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Sliding Window
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Simulation
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Union-Find
 |  |
 | ------- |
