@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
@@ -443,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
