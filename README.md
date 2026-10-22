@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
+| [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
+| [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
+| [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0732-my-calendar-iii) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
 | [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
+| [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
@@ -457,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0278-first-bad-version) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
