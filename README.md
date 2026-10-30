@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0658-find-k-closest-elements) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0732-my-calendar-iii) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
 | ------- |
