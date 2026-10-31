@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2233-maximum-product-after-k-increments](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2233-maximum-product-after-k-increments) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1792-maximum-average-pass-ratio) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2233-maximum-product-after-k-increments](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Sorting
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
