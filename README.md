@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0303-range-sum-query-immutable) |
 | [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0278-first-bad-version) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0383-ransom-note) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0313-super-ugly-number) |
 | [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
