@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0704-binary-search) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0645-set-mismatch) |
 ## Quicksort
 |  |
 | ------- |
