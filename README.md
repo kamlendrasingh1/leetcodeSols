@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1108-defanging-an-ip-address) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1094-car-pooling) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Union-Find
