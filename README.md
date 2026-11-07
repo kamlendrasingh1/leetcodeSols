@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1108-defanging-an-ip-address) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1405-longest-happy-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1405-longest-happy-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
