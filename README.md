@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0506-relative-ranks) |
 | [0528-random-pick-with-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0528-random-pick-with-weight) |
 | [0621-task-scheduler](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0621-task-scheduler) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -519,5 +521,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
