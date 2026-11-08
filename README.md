@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0875-koko-eating-bananas) |
+| [0962-maximum-width-ramp](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1046-last-stone-weight) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0962-maximum-width-ramp](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sweep Line
@@ -523,4 +526,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
