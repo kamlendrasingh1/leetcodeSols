@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2233-maximum-product-after-k-increments) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
+| [2454-next-greater-element-iv](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2454-next-greater-element-iv) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3169-count-days-without-meetings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3169-count-days-without-meetings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2454-next-greater-element-iv](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2454-next-greater-element-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
+| [2454-next-greater-element-iv](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2454-next-greater-element-iv) |
 | [3024-type-of-triangle](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3024-type-of-triangle) |
 | [3169-count-days-without-meetings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3169-count-days-without-meetings) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2454-next-greater-element-iv](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2454-next-greater-element-iv) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2233-maximum-product-after-k-increments](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2233-maximum-product-after-k-increments) |
 | [2402-meeting-rooms-iii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2402-meeting-rooms-iii) |
+| [2454-next-greater-element-iv](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2454-next-greater-element-iv) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -527,4 +532,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0962-maximum-width-ramp) |
+| [2454-next-greater-element-iv](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/2454-next-greater-element-iv) |
 <!---LeetCode Topics End-->
