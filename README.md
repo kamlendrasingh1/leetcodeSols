@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0242-valid-anagram) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0658-find-k-closest-elements) |
@@ -549,4 +551,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kamlendrasingh1/leetcodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
